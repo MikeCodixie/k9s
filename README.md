@@ -31,6 +31,7 @@ As you may know k9s is not pimped out by a big corporation with deep pockets. It
 ## Documentation
 
 Please refer to our [K9s documentation](https://k9scli.io) site for installation, usage, customization and tips.
+This is the line I've added in my fork
 
 ## Slack Channel
 
